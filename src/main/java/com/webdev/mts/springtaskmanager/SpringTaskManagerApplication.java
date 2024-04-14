@@ -8,6 +8,7 @@ public class SpringTaskManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringTaskManagerApplication.class, args);
+		System.out.println("Маша навалила кринжа");
 	}
 
 }

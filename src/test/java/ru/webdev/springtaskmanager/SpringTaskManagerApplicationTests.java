@@ -1,4 +1,4 @@
-package com.webdev.mts.springtaskmanager;
+package ru.webdev.springtaskmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
